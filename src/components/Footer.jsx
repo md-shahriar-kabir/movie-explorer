@@ -59,7 +59,7 @@ export default function Footer({ onNavigate }) {
             <ul className="footer-links-list">
               <li>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/md-shahriar-kabir/movie-explorer"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="footer-link"
